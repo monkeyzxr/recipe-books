@@ -1,6 +1,6 @@
 # Learn Angular and build an interesting project
 
-This project was created when I learned Angular 5 from Udemy wih Max. Thank you for the teaching!!!
+This project was created when I learned Angular 5 from Udemy wih Max. 
 
 This project is to build a recipe book which connect recipes with shopping lists.
 
